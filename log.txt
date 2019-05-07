@@ -1,0 +1,9 @@
+Movie name: The Avengers
+Released date: 04 May 2012
+IMDB Rating: 8.1
+Rotten tomatoes rating: 92%
+Country of production: USA
+Movie language: English, Russian, Hindi
+Movie plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors in the movie: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
